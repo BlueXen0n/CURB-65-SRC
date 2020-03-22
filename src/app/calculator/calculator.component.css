@@ -1,0 +1,15 @@
+/* Global CSS found in ../../style.css */
+
+p#Result {
+    font-weight: bold; /* Gives Results Bold property */ 
+}
+
+ul {
+    display: inline-block; /* Moves Dots to the list */
+}
+
+input[type="radio"] { /* Makes radio buttons bigger */
+    height: 17px;
+    width: 17px;
+    vertical-align: middle;
+}
